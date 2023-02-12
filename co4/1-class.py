@@ -19,10 +19,10 @@ area2 = rectangle.area(rect2)
 pm1 = rectangle.perimeter(rect1)
 pm2 = rectangle.perimeter(rect2)
 
-print("\nArea of rectangle 1:", area1)
-print("Perimeter of rectangle 1:", pm1, "\n")
-print("Area of rectangle 2:", area2)
-print("Perimeter of rectangle 2:", pm2, "\n")
+print("\nArea of rectangle 1: ", area1)
+print("Perimeter of rectangle 1: ", pm1, "\n")
+print("Area of rectangle 2: ", area2)
+print("Perimeter of rectangle 2: ", pm2, "\n")
 
 if (area1 > area2):
     print("Rectangle 1 is larger.\n")
