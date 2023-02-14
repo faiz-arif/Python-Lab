@@ -8,6 +8,3 @@ numlist = [n for n in range(start, end) if (int(sqrt(n)) * int(sqrt(n))) == n]
 newlist = [n for n in numlist if all(int(a) % 2 == 0 for a in str(n))]
 
 print(newlist)
-        
-            
-            

@@ -14,8 +14,3 @@ h = int(input("Enter height of triangle: "))
 tri = lambda b1, h: b1 * h / 2
 print(tri(b1, h))
 print()
-
-
-
-
-
