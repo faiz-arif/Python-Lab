@@ -5,8 +5,8 @@
 
 ## Programs
 ### CO1
-- 02. Display future leap years from current year to a final year entered by user.
-- 03. List comprehensions:
+02. Display future leap years from current year to a final year entered by user.
+03. List comprehensions:
   (a) Generate positive list of numbers from a given list of integers.
   (b) Square of N numbers.
   (c) Form a list of vowels selected from a given word.
